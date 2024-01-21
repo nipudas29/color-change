@@ -3,5 +3,8 @@ const name = 'Nipu';
 const dob = '21-09-2004';
 
 function sayName() {
-    console.log('My name is' + name1);');
+    console.log('My name is ' + name1);
 } 
+function sayAge() {
+    console.log('My age is ' + age);
+}
